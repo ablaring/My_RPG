@@ -2,7 +2,7 @@
 =======
 ## Example of Program Execution
 
-![MY RPG](https://media.tenor.com/rVYESHWPrGMAAAAd/super-mario-rpg-jrpg.gif 'My_rpg')
+![MY RPG](https://media.tenor.com/96CbikF8H54AAAAd/rpg.gif 'My_rpg')
 
 ## Description
 This project is one of the freest project of your first year. Create your own RPG.
